@@ -58,8 +58,8 @@ All the important references, that are part of this project are listed below.
 
 | Title | Link | Date (added) |
 | --- | --- | --- |
-| Blog | [blog.turnie.re](blog.turnie.re) | 19. Oct. 2018 |
-| Git Team | [git.turnie.re](git.turnie.re) | 19. Oct. 2018 |
+| Blog | [blog.turnie.re](http://blog.turnie.re) | 19. Oct. 2018 |
+| Git Team | [git.turnie.re](http://git.turnie.re) | 19. Oct. 2018 |
 |   
 
 
