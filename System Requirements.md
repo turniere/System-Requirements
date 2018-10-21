@@ -40,9 +40,29 @@ Version 1.0
     
 # Introduction
 ## Purpose
+
+The SRS
+
 ## Scope
 ## Definitions, Acronyms and Abbreviations
+
+All the (technical) terms, acronyms and abbreviations used in this document are listed and described in the table below.
+
+| Abbreviation / Term | Definition |
+| --- | --- |
+| SRS | System Requirements Specification |
+
 ## References
+
+All the important references, that are part of this project are listed below.
+
+| Title | Link | Date (added) |
+| --- | --- | --- |
+| Blog | [blog.turnie.re](blog.turnie.re) | 19. Oct. 2018 |
+| Git Team | [git.turnie.re](git.turnie.re) | 19. Oct. 2018 |
+|   
+
+
 ## Overview
 # Overall descriptions
 # Specific Requirements
