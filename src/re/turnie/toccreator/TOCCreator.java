@@ -72,8 +72,10 @@ public class TOCCreator {
                 // rewind the captions according to the depths used in the
                 if(depth == currentCaption.getDepth()) {
                     currentCaption = currentCaption.getParent();
-                } else if(depth == currentCaption.getDepth() - 1 && depth > 0) {
-                    currentCaption = currentCaption.getParent().getParent();
+                } else if(depth < currentCaption.getDepth() && depth > 0) {
+                    while(depth - 1 != currentCaption.getDepth()) {
+                        currentCaption = currentCaption.getParent();
+                    }
                 } else if(depth <= 0) {
                     System.out.println("The caption contained a non-positive depth, which is illegal.");
                     return;
