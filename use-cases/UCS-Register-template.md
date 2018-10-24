@@ -17,6 +17,20 @@ This use case allows guests to register for our website, and afterwards use our 
 
 ## %toc-caption-2% Basic Flow
 
+ - user puts in his username, e-mail and password
+ - user clicks on "Register" button
+ - client checks plausibility of credentials (format of username / e-mail; equality of passwords)
+ - if credentials aren't plausible we'll show an error
+ - server checks validity of credentials (username doesn't exist; plausibility check)
+ - if credentials aren't valid we'll show an error
+ - show the user his logged in page
+ 
+### %toc-caption-3% Activity Diagram
+![Activity Diagram](../imgs/use_case_register.png)
+
+### %toc-caption-3% Mockup
+![Mockuo](../imgs/mockup_register.png)
+
 ## %toc-caption-2% Alternative Flows
 
 ### %toc-caption-3% Alternative Flow 1

@@ -9,6 +9,8 @@ Version v1.0
    1. [Brief Description](#brief-description)
 1. [Flow of Events](#flow-of-events)
    1. [Basic Flow](#basic-flow)
+      1. [Activity Diagram](#activity-diagram)
+      1. [Mockup](#mockup)
    1. [Alternative Flows](#alternative-flows)
       1. [Alternative Flow 1](#alternative-flow-1)
       1. [Alternative Flow 2](#alternative-flow-2)
@@ -31,6 +33,20 @@ This use case allows guests to register for our website, and afterwards use our 
 # Flow of Events
 
 ## Basic Flow
+
+ - user puts in his username, e-mail and password
+ - user clicks on "Register" button
+ - client checks plausibility of credentials (format of username / e-mail; equality of passwords)
+ - if credentials aren't plausible we'll show an error
+ - server checks validity of credentials (username doesn't exist; plausibility check)
+ - if credentials aren't valid we'll show an error
+ - show the user his logged in page
+ 
+### Activity Diagram
+![Activity Diagram](../imgs/use_case_register.png)
+
+### Mockup
+![Mockuo](../imgs/mockup_register.png)
 
 ## Alternative Flows
 
