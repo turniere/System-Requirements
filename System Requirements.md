@@ -91,6 +91,8 @@ It will ignore the separation of backend, frontend and app and just focus on gen
 A *user* is able to read the manual, create an account (register), log in, recover their password, list public tournaments and view a public tournament.
 After registration and login a *user* will become a *member* with access to all available features.
 
+The use case specification for the register use-case can be found [here](use-cases/UCS-Register.md).
+
 ### User management
 Each *member* has a unique username and email-address and a password.
 It can use either the username or the mail-address and the password to log in.
