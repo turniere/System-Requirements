@@ -1,11 +1,5 @@
 # turnie.re - Software Requirements Specification  
 
-## Revision History:
-
-| Date | Version | Description | Author |
-| ---  | ---     | ---         | ---    |
-| 21. Oct. 2018 | 1.0 | Initial | Jonas Seydel |
-
 ## Table of contents
 
 1. [Introduction](#introduction)
