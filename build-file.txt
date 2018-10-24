@@ -4,3 +4,5 @@ use-cases/Use-Case-template.md
 use-cases/Use-Case.md
 use-cases/UCS-Register-template.md
 use-cases/UCS-Register.md
+use-cases/UCS-RecoverPassword-template.md
+use-cases/UCS-RecoverPassword.md
