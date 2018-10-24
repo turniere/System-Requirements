@@ -52,7 +52,7 @@ Some people tend to use magically (not-)working solutions based on Excel sheets 
 To solve this once and for all we want to create a web page which will take care of managing your tournaments so you can focus on more important parts of your events.
 
 ## %toc-caption-2% Use Case Diagram
-![Use Case Diagram](use_case_diagram.png)
+![Use Case Diagram](imgs/use_case_diagram.png)
 
 # %toc-caption-1% Specific Requirements
 ## %toc-caption-2% Functionality
