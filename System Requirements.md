@@ -98,6 +98,8 @@ Each *member* has a unique username and email-address and a password.
 It can use either the username or the mail-address and the password to log in.
 While logged in it can change their username, email-address and password.
 
+The use case specification for the recover password use-case can be found [here](use-cases/UCS-RecoverPassword.md).
+
 ### Tournament management
 A *member* can create a tournament and become it's *tournament owner*.
 A *tournament* consists of a name, an optional description and multiple teams.
