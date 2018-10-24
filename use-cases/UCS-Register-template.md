@@ -32,23 +32,26 @@ This use case allows guests to register for our website, and afterwards use our 
 ![Mockuo](../imgs/mockup_register.png)
 
 ## %toc-caption-2% Alternative Flows
-
-### %toc-caption-3% Alternative Flow 1
-
-### %toc-caption-3% Alternative Flow 2
+Not Applicable (N/A)
 
 # %toc-caption-1% Special Requirements
-
-## %toc-caption-2% Special Requirement 1
+Not Applicable (N/A)
 
 # %toc-caption-1% Preconditions
 
-## %toc-caption-2% Precondition 1
+## %toc-caption-2% User is not logged in
+The user may not have logged in prior to trying to sign up, since he then has already registered, which should be a one-time only thing to do.
+
+Also the user will need an e-mail that has not yet been used to register for our service.
 
 # %toc-caption-1% Postconditions
 
-## %toc-caption-2% Postcondition 1
+## %toc-caption-2% User will receive an verification e-mail
+The user will receive an verification e-mail to the e-mail he has given.
+This e-mail will contain a link, that will set the status of his profile to 'verified'.
+
+## %toc-caption-2% User will be able to perform member-actions
+The user will (as long as he is logged in), be able to perform member-actions, like create tournaments.
 
 # %toc-caption-1% Extension Points
-
-## %toc-caption-2% Extension Point 1
+Not Applicable (N/A)

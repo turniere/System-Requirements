@@ -12,16 +12,13 @@ Version v1.0
       1. [Activity Diagram](#activity-diagram)
       1. [Mockup](#mockup)
    1. [Alternative Flows](#alternative-flows)
-      1. [Alternative Flow 1](#alternative-flow-1)
-      1. [Alternative Flow 2](#alternative-flow-2)
 1. [Special Requirements](#special-requirements)
-   1. [Special Requirement 1](#special-requirement-1)
 1. [Preconditions](#preconditions)
-   1. [Precondition 1](#precondition-1)
+   1. [User is not logged in](#user-is-not-logged-in)
 1. [Postconditions](#postconditions)
-   1. [Postcondition 1](#postcondition-1)
+   1. [User will receive an verification e-mail](#user-will-receive-an-verification-email)
+   1. [User will be able to perform member-actions](#user-will-be-able-to-perform-memberactions)
 1. [Extension Points](#extension-points)
-   1. [Extension Point 1](#extension-point-1)
 
 
 # Register
@@ -49,23 +46,26 @@ This use case allows guests to register for our website, and afterwards use our 
 ![Mockuo](../imgs/mockup_register.png)
 
 ## Alternative Flows
-
-### Alternative Flow 1
-
-### Alternative Flow 2
+Not Applicable (N/A)
 
 # Special Requirements
-
-## Special Requirement 1
+Not Applicable (N/A)
 
 # Preconditions
 
-## Precondition 1
+## User is not logged in
+The user may not have logged in prior to trying to sign up, since he then has already registered, which should be a one-time only thing to do.
+
+Also the user will need an e-mail that has not yet been used to register for our service.
 
 # Postconditions
 
-## Postcondition 1
+## User will receive an verification e-mail
+The user will receive an verification e-mail to the e-mail he has given.
+This e-mail will contain a link, that will set the status of his profile to 'verified'.
+
+## User will be able to perform member-actions
+The user will (as long as he is logged in), be able to perform member-actions, like create tournaments.
 
 # Extension Points
-
-## Extension Point 1
+Not Applicable (N/A)
