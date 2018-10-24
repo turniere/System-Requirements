@@ -2,3 +2,5 @@ System Requirements-template.md
 System Requirements.md
 use-cases/Use-Case-template.md
 use-cases/Use-Case.md
+use-cases/UCS-Register-template.md
+use-cases/UCS-Register.md
