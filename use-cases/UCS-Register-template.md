@@ -28,6 +28,9 @@ This use case allows guests to register for our website, and afterwards use our 
 ### %toc-caption-3% Activity Diagram
 ![Activity Diagram](../imgs/use_case_register.png)
 
+### %toc-caption-3% Feature
+[features/register.feature](../features/register.feature)
+
 ### %toc-caption-3% Mockup
 ![Mockuo](../imgs/mockup_register.png)
 

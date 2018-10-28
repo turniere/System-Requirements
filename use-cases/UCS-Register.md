@@ -10,6 +10,7 @@ Version v1.0
 1. [Flow of Events](#flow-of-events)
    1. [Basic Flow](#basic-flow)
       1. [Activity Diagram](#activity-diagram)
+      1. [Feature](#feature)
       1. [Mockup](#mockup)
    1. [Alternative Flows](#alternative-flows)
 1. [Special Requirements](#special-requirements)
@@ -41,6 +42,9 @@ This use case allows guests to register for our website, and afterwards use our 
  
 ### Activity Diagram
 ![Activity Diagram](../imgs/use_case_register.png)
+
+### Feature
+[features/register.feature](../features/register.feature)
 
 ### Mockup
 ![Mockuo](../imgs/mockup_register.png)

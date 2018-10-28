@@ -30,6 +30,9 @@ This is done by sending a message to the e-mail of the user who wants to recover
 ### %toc-caption-3% Activity Diagram
 ![Activity Diagram](../imgs/use_case_recoverpassword.png)
 
+### %toc-caption-3% Feature
+[features/recover_password.feature](../features/recover_password.feature)
+
 ### %toc-caption-3% Mockup
 
 #### %toc-caption-4% Login

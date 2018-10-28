@@ -10,6 +10,7 @@ Version v1.0
 1. [Flow of Events](#flow-of-events)
    1. [Basic Flow](#basic-flow)
       1. [Activity Diagram](#activity-diagram)
+      1. [Feature](#feature)
       1. [Mockup](#mockup)
          1. [Login](#login)
          1. [Recover Password](#recover-password-1)
@@ -44,6 +45,9 @@ This is done by sending a message to the e-mail of the user who wants to recover
  
 ### Activity Diagram
 ![Activity Diagram](../imgs/use_case_recoverpassword.png)
+
+### Feature
+[features/recover_password.feature](../features/recover_password.feature)
 
 ### Mockup
 
