@@ -19,6 +19,16 @@ Feature: Register an account
     And I click on button having text "Register"
     Then I should see form error "This username already exists"
 
+  Scenario: Invalid email address
+    When I navigate to "/register"
+    And I enter "alice" into input field having id "username"
+    And I enter "alice" into input field having id "mail"
+    And I enter "111111111111" into input field having id "password"
+    And I enter "111111111111" into input field having id "password-repeat"
+    And I click on button having text "Register"
+    Then I should see form error "The given email address is not valid"
+
+
   Scenario: Successful registration
     When I navigate to "/register"
     And I enter "alice" into input field having id "username"
