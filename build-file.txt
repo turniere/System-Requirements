@@ -1,7 +1,7 @@
 System Requirements-template.md
 System Requirements.md
-use-cases/templates/Use-Case-template.md
-use-cases/Use-Case.md
+use-cases/templates/Empty-Use-Case-template.md
+use-cases/Empty-Use-Case.md
 use-cases/templates/UCS-UserCRUD-template.md
 use-cases/UCS-UserCRUD.md
 use-cases/templates/UCS-RecoverPassword-template.md
