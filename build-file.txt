@@ -1,16 +1,16 @@
 System Requirements-template.md
 System Requirements.md
-use-cases/Use-Case-template.md
+use-cases/templates/Use-Case-template.md
 use-cases/Use-Case.md
-use-cases/UCS-UserCRUD-template.md
+use-cases/templates/UCS-UserCRUD-template.md
 use-cases/UCS-UserCRUD.md
-use-cases/UCS-RecoverPassword-template.md
+use-cases/templates/UCS-RecoverPassword-template.md
 use-cases/UCS-RecoverPassword.md
-use-cases/UCS-MatchBetting-template.md
+use-cases/templates/UCS-MatchBetting-template.md
 use-cases/UCS-MatchBetting.md
-use-cases/UCS-MatchCRUD-template.md
+use-cases/templates/UCS-MatchCRUD-template.md
 use-cases/UCS-MatchCRUD.md
-use-cases/UCS-StatisticsPage-template.md
+use-cases/templates/UCS-StatisticsPage-template.md
 use-cases/UCS-StatisticsPage.md
-use-cases/UCS-TournamentCRUD-template.md
+use-cases/templates/UCS-TournamentCRUD-template.md
 use-cases/UCS-TournamentCRUD.md
