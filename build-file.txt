@@ -6,3 +6,11 @@ use-cases/UCS-Register-template.md
 use-cases/UCS-Register.md
 use-cases/UCS-RecoverPassword-template.md
 use-cases/UCS-RecoverPassword.md
+use-cases/UCS-MatchBetting-template.md
+use-cases/UCS-MatchBetting.md
+use-cases/UCS-MatchCRUD-template.md
+use-cases/UCS-MatchCRUD.md
+use-cases/UCS-StatisticsPage-template.md
+use-cases/UCS-StatisticsPage.md
+use-cases/UCS-TournamentCRUD-template.md
+use-cases/UCS-TournamentCRUD.md
