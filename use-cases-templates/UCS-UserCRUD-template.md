@@ -32,7 +32,7 @@ This use case allows guests to register for our website, and afterwards use our 
 [features/register.feature](../features/register.feature)
 
 ### %toc-caption-3% Mockup
-![Mockuo](../imgs/mockup_register.png)
+![Mockuo](../imgs/mockups/mockup_register.png)
 
 ## %toc-caption-2% Alternative Flows
 Not Applicable (N/A)

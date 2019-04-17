@@ -47,7 +47,7 @@ This use case allows guests to register for our website, and afterwards use our 
 [features/register.feature](../features/register.feature)
 
 ### Mockup
-![Mockuo](../imgs/mockup_register.png)
+![Mockuo](../imgs/mockups/mockup_register.png)
 
 ## Alternative Flows
 Not Applicable (N/A)

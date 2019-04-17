@@ -36,10 +36,10 @@ This is done by sending a message to the e-mail of the user who wants to recover
 ### %toc-caption-3% Mockup
 
 #### %toc-caption-4% Login
-![Mockup](../imgs/mockup_login.png)
+![Mockup](../imgs/mockups/mockup_login.png)
 
 #### %toc-caption-4% Recover Password
-![Mockup](../imgs/mockup_recoverpassword.png)
+![Mockup](../imgs/mockups/mockup_recoverpassword.png)
 
 ## %toc-caption-2% Alternative Flows
 Not Applicable (N/A)
