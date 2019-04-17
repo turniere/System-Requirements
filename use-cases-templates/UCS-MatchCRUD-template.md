@@ -29,7 +29,7 @@ TBA
 TBA
 
 ### %toc-caption-3% Mockup
-TBA
+![Mockup](../imgs/mockups/mockup_match_update.png)
 
 #### %toc-caption-4% Match Start
 TBA

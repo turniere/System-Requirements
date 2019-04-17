@@ -28,18 +28,18 @@ This is done by sending a message to the e-mail of the user who wants to recover
  - server saves the new password
  
 ### %toc-caption-3% Activity Diagram
-![Activity Diagram](../../imgs/use_case_recoverpassword.png)
+![Activity Diagram](../imgs/use_case_recoverpassword.png)
 
 ### %toc-caption-3% Feature
-[features/recover_password.feature](../../features/recover_password.feature)
+[features/recover_password.feature](../features/recover_password.feature)
 
 ### %toc-caption-3% Mockup
 
 #### %toc-caption-4% Login
-![Mockuo](../../imgs/mockup_login.png)
+![Mockup](../imgs/mockup_login.png)
 
 #### %toc-caption-4% Recover Password
-![Mockuo](../../imgs/mockup_recoverpassword.png)
+![Mockup](../imgs/mockup_recoverpassword.png)
 
 ## %toc-caption-2% Alternative Flows
 Not Applicable (N/A)
