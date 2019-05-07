@@ -45,7 +45,9 @@ TBA
 TBA
 
 ### Mockup
-TBA
+![Mockup Tournament Creation](../imgs/mockups/mockup_tournament_creation.png)
+
+![Mockup Tournament Edit](../imgs/mockups/mockup_tournament_edit.png)
 
 ## Alternative Flows
 Not Applicable (N/A)

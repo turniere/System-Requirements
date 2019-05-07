@@ -45,7 +45,7 @@ TBA
 TBA
 
 ### Mockup
-TBA
+![Mockup](../imgs/mockups/mockup_match_update.png)
 
 #### Match Start
 TBA
