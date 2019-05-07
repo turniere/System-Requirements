@@ -14,3 +14,5 @@ use-cases-templates/UCS-StatisticsPage-template.md
 use-cases/UCS-StatisticsPage.md
 use-cases-templates/UCS-TournamentCRUD-template.md
 use-cases/UCS-TournamentCRUD.md
+Test Plan/TestPlan-template.md
+Test Plan/TestPlan.md
