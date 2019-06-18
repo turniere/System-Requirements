@@ -22,3 +22,5 @@ use-cases-templates/edit-teams-template.md
 use-cases/edit-teams.md
 use-cases-templates/login-template.md
 use-cases/login.md
+use-cases-templates/edit-a-tournament.md
+use-cases/edit-a-tournament.md
