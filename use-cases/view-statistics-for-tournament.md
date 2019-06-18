@@ -12,8 +12,6 @@ Version v1.0
       1. [Activity Diagram](#activity-diagram)
       1. [Feature](#feature)
       1. [Mockup](#mockup)
-         1. [Match Start](#match-start)
-         1. [Match Update](#match-update)
    1. [Alternative Flows](#alternative-flows)
 1. [Special Requirements](#special-requirements)
 1. [Preconditions](#preconditions)
@@ -43,13 +41,7 @@ The most Points scored or the closest games will be shown there for example.
 TBA
 
 ### Mockup
-TBA
-
-#### Match Start
-TBA
-
-#### Match Update
-TBA
+![Activity Diagram](../imgs/mockups/mockup_view_statistics_for_tournament.png)
 
 ## Alternative Flows
 Not Applicable (N/A)
