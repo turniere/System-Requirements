@@ -23,7 +23,7 @@ This Use Case Allows Users to bet on who will win the match. When selecting a Ma
  - tournament view shows up again showing the percentages each team has
  
 ### %toc-caption-3% Activity Diagram
-TBA
+![Activity Diagram](../imgs/use_case_matchbetting.png)
 
 ### %toc-caption-3% Feature
 TBA

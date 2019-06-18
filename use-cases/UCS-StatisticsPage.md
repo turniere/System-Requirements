@@ -37,7 +37,7 @@ The most Points scored or the closest games will be shown there for example.
  - User sees statistics
  
 ### Activity Diagram
-TBA
+![Activity Diagram](../imgs/use_case_statisticspage.png)
 
 ### Feature
 TBA
