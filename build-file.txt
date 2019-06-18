@@ -2,17 +2,17 @@ System Requirements-template.md
 System Requirements.md
 use-cases-templates/Empty-Use-Case-template.md
 use-cases/Empty-Use-Case.md
-use-cases-templates/UCS-UserCRUD-template.md
-use-cases/UCS-UserCRUD.md
-use-cases-templates/UCS-RecoverPassword-template.md
-use-cases/UCS-RecoverPassword.md
-use-cases-templates/UCS-MatchBetting-template.md
-use-cases/UCS-MatchBetting.md
-use-cases-templates/UCS-MatchCRUD-template.md
-use-cases/UCS-MatchCRUD.md
-use-cases-templates/UCS-StatisticsPage-template.md
-use-cases/UCS-StatisticsPage.md
-use-cases-templates/UCS-TournamentCRUD-template.md
-use-cases/UCS-TournamentCRUD.md
+use-cases-templates/UCS-register-template.md
+use-cases/UCS-register.md
+use-cases-templates/UCS-recover-password-template.md
+use-cases/UCS-recover-password.md
+use-cases-templates/UCS-bet-on-match-template.md
+use-cases/UCS-bet-on-match.md
+use-cases-templates/UCS-update-match-scores-template.md
+use-cases/UCS-update-match-scores.md
+use-cases-templates/UCS-view-statistics-for-tournament-template.md
+use-cases/UCS-view-statistics-for-tournament.md
+use-cases-templates/UCS-create-a-tournament-template.md
+use-cases/UCS-create-a-tournament.md
 Test Plan/TestPlan-template.md
 Test Plan/TestPlan.md
