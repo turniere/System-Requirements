@@ -12,11 +12,8 @@ Version v1.0
       1. [Activity Diagram](#activity-diagram)
       1. [Feature](#feature)
       1. [Mockup](#mockup)
-         1. [Login](#login)
-         1. [Recover Password](#recover-password-1)
    1. [Alternative Flows](#alternative-flows)
 1. [Special Requirements](#special-requirements)
-   1. [Javafxmail](#javafxmail)
 1. [Preconditions](#preconditions)
 1. [Postconditions](#postconditions)
    1. [New password is set](#new-password-is-set)
@@ -50,11 +47,6 @@ This is done by sending a message to the e-mail of the user who wants to recover
 [features/recover_password.feature](../features/recover_password.feature)
 
 ### Mockup
-
-#### Login
-![Mockup](../imgs/mockups/mockup_login.png)
-
-#### Recover Password
 ![Mockup](../imgs/mockups/mockup_recoverpassword.png)
 
 ## Alternative Flows
@@ -62,12 +54,11 @@ Not Applicable (N/A)
 
 # Special Requirements
 
-## Javafxmail
-Since this use case requires the server to send an e-mail to a given e-mail address, we'll need some kind of library that allows us to do so.
-At the moment we're looking into using Javafxmail to solve this problem.
+## Mailgun
+We will be using [Mailgun](https://www.mailgun.com/) as a service to send our E-Mails for us. Therefore Mailgun needs to be up and running for our application to function.
 
 # Preconditions
-Not Applicable (N/A)
+- User needs to have an account
 
 # Postconditions
 

@@ -34,11 +34,6 @@ This is done by sending a message to the e-mail of the user who wants to recover
 [features/recover_password.feature](../features/recover_password.feature)
 
 ### %toc-caption-3% Mockup
-
-#### %toc-caption-4% Login
-![Mockup](../imgs/mockups/mockup_login.png)
-
-#### %toc-caption-4% Recover Password
 ![Mockup](../imgs/mockups/mockup_recoverpassword.png)
 
 ## %toc-caption-2% Alternative Flows
@@ -46,12 +41,11 @@ Not Applicable (N/A)
 
 # %toc-caption-1% Special Requirements
 
-## %toc-caption-2% Javafxmail
-Since this use case requires the server to send an e-mail to a given e-mail address, we'll need some kind of library that allows us to do so.
-At the moment we're looking into using Javafxmail to solve this problem.
+## Mailgun
+We will be using [Mailgun](https://www.mailgun.com/) as a service to send our E-Mails for us. Therefore Mailgun needs to be up and running for our application to function.
 
 # %toc-caption-1% Preconditions
-Not Applicable (N/A)
+- User needs to have an account
 
 # %toc-caption-1% Postconditions
 
