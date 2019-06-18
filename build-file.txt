@@ -12,7 +12,7 @@ use-cases-templates/UCS-update-match-scores-template.md
 use-cases/UCS-update-match-scores.md
 use-cases-templates/UCS-view-statistics-for-tournament-template.md
 use-cases/UCS-view-statistics-for-tournament.md
-use-cases-templates/UCS-create-a-tournament-template.md
-use-cases/UCS-create-a-tournament.md
+use-cases-templates/create-a-tournament-template.md
+use-cases/create-a-tournament.md
 Test Plan/TestPlan-template.md
 Test Plan/TestPlan.md

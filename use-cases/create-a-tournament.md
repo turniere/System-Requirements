@@ -5,17 +5,30 @@ Version v1.0
 
 # Table of contents
 
-%toc-content%
+1. [Register](#register)
+   1. [Brief Description](#brief-description)
+1. [Flow of Events](#flow-of-events)
+   1. [Basic Flow](#basic-flow)
+      1. [Activity Diagram](#activity-diagram)
+      1. [Feature](#feature)
+      1. [Mockup](#mockup)
+   1. [Alternative Flows](#alternative-flows)
+1. [Special Requirements](#special-requirements)
+1. [Preconditions](#preconditions)
+   1. [User is not logged in](#user-is-not-logged-in)
+1. [Postconditions](#postconditions)
+1. [Extension Points](#extension-points)
 
-# %toc-caption-1% Register
 
-## %toc-caption-2% Brief Description
+# Register
+
+## Brief Description
 
 This use case allows users to create update and delete a tournament.
 
-# %toc-caption-1% Flow of Events
+# Flow of Events
 
-## %toc-caption-2% Basic Flow
+## Basic Flow
 
  - user puts in necessary details for the tournament
  - user clicks on generate button
@@ -25,30 +38,28 @@ This use case allows users to create update and delete a tournament.
  - if settings aren't valid we'll show an error
  - show the user the generated tournament
  
-### %toc-caption-3% Activity Diagram
+### Activity Diagram
+![Activity Diagram](../imgs/flow_diagram_create_a_tournament.png)
+
+### Feature
 TBA
 
-### %toc-caption-3% Feature
-TBA
-
-### %toc-caption-3% Mockup
+### Mockup
 ![Mockup Tournament Creation](../imgs/mockups/mockup_tournament_creation.png)
 
-![Mockup Tournament Edit](../imgs/mockups/mockup_tournament_edit.png)
-
-## %toc-caption-2% Alternative Flows
+## Alternative Flows
 Not Applicable (N/A)
 
-# %toc-caption-1% Special Requirements
+# Special Requirements
 Not Applicable (N/A)
 
-# %toc-caption-1% Preconditions
+# Preconditions
 
-## %toc-caption-2% User is not logged in
+## User is not logged in
 The user will need to log in / register to create a tournament.
 
-# %toc-caption-1% Postconditions
+# Postconditions
 User has a tournament and can update matches within.
 
-# %toc-caption-1% Extension Points
+# Extension Points
 Not Applicable (N/A)
