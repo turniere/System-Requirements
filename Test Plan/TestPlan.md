@@ -26,8 +26,7 @@ Version v1.0
       1. [Business Cycle Testing](#business-cycle-testing)
       1. [User Interface Testing](#user-interface-testing)
       1. [Performance Profiling](#performance-profiling)
-      1. [Load Testing](#load-testing)
-      1. [Stress Testing](#stress-testing)
+      1. [Load/Stress Testing](#loadstress-testing)
       1. [Volume Testing](#volume-testing)
       1. [Security and Access Control Testing](#security-and-access-control-testing)
       1. [Failover and Recovery Testing](#failover-and-recovery-testing)
@@ -121,10 +120,16 @@ n/a
 Automated with use of Cucumber and Feature-Files
 ### Performance Profiling
 n/a
-### Load Testing
-n/a
-### Stress Testing
-n/a
+### Load/Stress Testing
+|                       | Description |
+|-----------------------|-------------|
+|Technique Objective    | Test stability under load |
+|Technique              | Creating test steps and assertions using JMeter, executing them against a local and remote backend instance |
+|Oracles                | Expect that the application successfully anders a few hundred requests per second |
+|Required Tools         | JMeter |
+|Success Criteria       | The application doesn't crash and reaches a few hundred requests per second |
+|Special Considerations | Make sure noone else is accessing/stressing the backend instance during the test |
+
 ### Volume Testing
 n/a
 ### Security and Access Control Testing
