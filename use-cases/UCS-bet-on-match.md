@@ -12,7 +12,6 @@ Version v1.0
       1. [Activity Diagram](#activity-diagram)
       1. [Feature](#feature)
       1. [Mockup](#mockup)
-         1. [Betting](#betting)
    1. [Alternative Flows](#alternative-flows)
 1. [Special Requirements](#special-requirements)
 1. [Preconditions](#preconditions)
@@ -43,10 +42,7 @@ This Use Case Allows Users to bet on who will win the match. When selecting a Ma
 TBA
 
 ### Mockup
-TBA
-
-#### Betting
-TBA
+![Mockup](../imgs/mockups/mockup_create_bet.png)
 
 ## Alternative Flows
 Not Applicable (N/A)
@@ -55,7 +51,7 @@ Not Applicable (N/A)
 Not Applicable (N/A)
 
 # Preconditions
-Not Applicable (N/A)
+- User needs to be logged in
 
 # Postconditions
 

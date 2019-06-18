@@ -29,10 +29,7 @@ This Use Case Allows Users to bet on who will win the match. When selecting a Ma
 TBA
 
 ### %toc-caption-3% Mockup
-TBA
-
-#### %toc-caption-4% Betting
-TBA
+![Mockup](../imgs/mockups/mockup_create_bet.png)
 
 ## %toc-caption-2% Alternative Flows
 Not Applicable (N/A)
@@ -41,7 +38,7 @@ Not Applicable (N/A)
 Not Applicable (N/A)
 
 # %toc-caption-1% Preconditions
-Not Applicable (N/A)
+- User needs to be logged in
 
 # %toc-caption-1% Postconditions
 
