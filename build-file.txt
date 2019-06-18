@@ -14,6 +14,8 @@ use-cases-templates/view-statistics-for-tournament-template.md
 use-cases/view-statistics-for-tournament.md
 use-cases-templates/create-a-tournament-template.md
 use-cases/create-a-tournament.md
+use-cases-templates/view-a-tournament.md
+use-cases/view-a-tournament.md
 Test Plan/TestPlan-template.md
 Test Plan/TestPlan.md
 use-cases-templates/edit-teams-template.md
