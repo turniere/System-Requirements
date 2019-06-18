@@ -15,6 +15,7 @@
       1. [Authorization](#authorization)
       1. [User management](#user-management)
       1. [Tournament management](#tournament-management)
+      1. [Match Betting](#match-betting)
    1. [Usability](#usability)
       1. [Backend (REST API)](#backend-rest-api)
       1. [Web Frontend](#web-frontend)
@@ -91,7 +92,9 @@ It will ignore the separation of backend, frontend and app and just focus on gen
 A *user* is able to read the manual, create an account (register), log in, recover their password, list public tournaments and view a public tournament.
 After registration and login a *user* will become a *member* with access to all available features.
 
-The use case specification for the register use-case can be found [here](use-cases/UCS-UserCRUD.md).
+The use case specification for the register use-case can be found [here](use-cases/register.md).
+The use case specification for the login use-case can be found [here](use-cases/login.md).
+The use case specification for the recover password use-case can be found [here](use-cases/recover-password.md).
 
 ### User management
 Each *member* has a unique username and email-address and a password.
@@ -118,6 +121,18 @@ It will consist of multiple stages depending on the number of teams chosen to ge
 The winning teams of each stage will get into the next one resulting in a final stage with two teams and a tournament winner.
 
 After a tournament is finished, leaderboards with relevant tournament statistics are generated and displayed.
+
+The use case specification for the update match score use-case can be found [here](use-cases/update-match-scores.md).
+The use case specification for the tournament creation use-case can be found [here](use-cases/create-a-tournament.md).
+The use case specification for the view a tournament use-case can be found [here](use-cases/view-a-tournament.md).
+The use case specification for the edit teams use-case can be found [here](use-cases/edit-teams.md).
+The use case specification for the tournament statistics use-case can be found [here](use-cases/view-statistics-for-tournament.md).
+
+### Match Betting
+One can bet on a team in a Match. This will influence the statistics page of the tournament and generate graphs showing, how many people bet right and how many didn't.
+
+The use case specification for the match betting use-case can be found [here](use-cases/bet-on-match.md).
+
 ## Usability
 The usability requirement is described separately by component.
 
