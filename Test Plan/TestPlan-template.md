@@ -67,10 +67,16 @@ n/a
 Automated with use of Cucumber and Feature-Files
 ### %toc-caption-3% Performance Profiling 
 n/a
-### %toc-caption-3% Load Testing
-n/a
-### %toc-caption-3% Stress Testing
-n/a
+### %toc-caption-3% Load/Stress Testing
+|                       | Description |
+|-----------------------|-------------|
+|Technique Objective    | Test stability under load |
+|Technique              | Creating test steps and assertions using JMeter, executing them against a local and remote backend instance |
+|Oracles                | Expect that the application successfully anders a few hundred requests per second |
+|Required Tools         | JMeter |
+|Success Criteria       | The application doesn't crash and reaches a few hundred requests per second |
+|Special Considerations | Make sure noone else is accessing/stressing the backend instance during the test |
+
 ### %toc-caption-3% Volume Testing
 n/a
 ### %toc-caption-3% Security and Access Control Testing
