@@ -23,19 +23,13 @@ This Use Case Allows Users to bet on who will win the match. When selecting a Ma
  - Match is updated according to the options the user submits
  
 ### %toc-caption-3% Activity Diagram
-TBA
+![Mockup](../imgs/activity_diagram_update_match_scores.png)
 
 ### %toc-caption-3% Feature
 TBA
 
 ### %toc-caption-3% Mockup
 ![Mockup](../imgs/mockups/mockup_match_update.png)
-
-#### %toc-caption-4% Match Start
-TBA
-
-#### %toc-caption-4% Match Update
-TBA
 
 ## %toc-caption-2% Alternative Flows
 Not Applicable (N/A)
@@ -44,7 +38,8 @@ Not Applicable (N/A)
 Not Applicable (N/A)
 
 # %toc-caption-1% Preconditions
-Tournament needs to be created
+- Tournament needs to be created
+- User needs to be logged in
 
 # %toc-caption-1% Postconditions
 

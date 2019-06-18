@@ -12,8 +12,6 @@ Version v1.0
       1. [Activity Diagram](#activity-diagram)
       1. [Feature](#feature)
       1. [Mockup](#mockup)
-         1. [Match Start](#match-start)
-         1. [Match Update](#match-update)
    1. [Alternative Flows](#alternative-flows)
 1. [Special Requirements](#special-requirements)
 1. [Preconditions](#preconditions)
@@ -39,19 +37,13 @@ This Use Case Allows Users to bet on who will win the match. When selecting a Ma
  - Match is updated according to the options the user submits
  
 ### Activity Diagram
-TBA
+![Mockup](../imgs/activity_diagram_update_match_scores.png)
 
 ### Feature
 TBA
 
 ### Mockup
 ![Mockup](../imgs/mockups/mockup_match_update.png)
-
-#### Match Start
-TBA
-
-#### Match Update
-TBA
 
 ## Alternative Flows
 Not Applicable (N/A)
@@ -60,7 +52,8 @@ Not Applicable (N/A)
 Not Applicable (N/A)
 
 # Preconditions
-Tournament needs to be created
+- Tournament needs to be created
+- User needs to be logged in
 
 # Postconditions
 
