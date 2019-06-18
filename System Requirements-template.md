@@ -91,6 +91,7 @@ The use case specification for the update match score use-case can be found [her
 The use case specification for the tournament creation use-case can be found [here](use-cases/create-a-tournament.md).
 The use case specification for the view a tournament use-case can be found [here](use-cases/view-a-tournament.md).
 The use case specification for the edit teams use-case can be found [here](use-cases/edit-teams.md).
+The use case specification for the editing a tournament use-case can be found [here](use-cases/edit-a-tournament.md).
 The use case specification for the tournament statistics use-case can be found [here](use-cases/view-statistics-for-tournament.md).
 
 ### %toc-caption-3% Match Betting
