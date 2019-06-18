@@ -125,6 +125,10 @@ The use case specification for the view a tournament use-case can be found [here
 The use case specification for the edit teams use-case can be found [here](use-cases/edit-teams.md).
 The use case specification for the tournament statistics use-case can be found [here](use-cases/view-statistics-for-tournament.md).
 
+### Match Betting
+One can bet on a team in a Match. This will influence the statistics page of the tournament and generate graphs showing, how many people bet right and how many didn't.
+
+The use case specification for the match betting use-case can be found [here](use-cases/bet-on-match.md).
 ## Usability
 The usability requirement is described separately by component.
 
