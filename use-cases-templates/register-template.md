@@ -45,7 +45,7 @@ Not Applicable (N/A)
 ## %toc-caption-2% User is not logged in
 The user may not have logged in prior to trying to sign up, since he then has already registered, which should be a one-time only thing to do.
 
-Also the user will need an e-mail that has not yet been used to register for our service.
+Also the user will need an e-mail and username that has not yet been used to register for our service.
 
 # %toc-caption-1% Postconditions
 
@@ -54,7 +54,7 @@ The user will receive an verification e-mail to the e-mail he has given.
 This e-mail will contain a link, that will set the status of his profile to 'verified'.
 
 ## %toc-caption-2% User will be able to perform member-actions
-The user will (as long as he is logged in), be able to perform member-actions, like create tournaments.
+The user will (as long as he is logged in), be able to perform member-actions, like creating tournaments.
 
 # %toc-caption-1% Extension Points
 Not Applicable (N/A)
