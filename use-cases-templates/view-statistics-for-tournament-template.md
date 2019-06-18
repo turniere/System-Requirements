@@ -29,13 +29,7 @@ The most Points scored or the closest games will be shown there for example.
 TBA
 
 ### %toc-caption-3% Mockup
-TBA
-
-#### %toc-caption-4% Match Start
-TBA
-
-#### %toc-caption-4% Match Update
-TBA
+![Activity Diagram](../imgs/mockups/mockup_view_statistics_for_tournament.png)
 
 ## %toc-caption-2% Alternative Flows
 Not Applicable (N/A)
