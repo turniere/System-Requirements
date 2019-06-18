@@ -20,3 +20,5 @@ Test Plan/TestPlan-template.md
 Test Plan/TestPlan.md
 use-cases-templates/edit-teams-template.md
 use-cases/edit-teams.md
+use-cases-templates/login-template.md
+use-cases/login.md
